@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##FOURSQUARE api
+##FOURSQUARE api:
+
   In this project a third party api called foursquare is used for fetching the venues.
 
 ## Available Scripts
